@@ -1,7 +1,7 @@
 """
-Name:
-Date:
-Topics: Indexing, Slicing, Immutability
+Name: Mr. Smith
+Date: 12-2-24
+Topics: Indexing, Slicing
 """
 
 # Review
